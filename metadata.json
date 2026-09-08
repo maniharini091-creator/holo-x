@@ -1,0 +1,6 @@
+{
+  "name": "HoloX – Touchless Holographic Smartphone",
+  "description": "Futuristic touchless holographic smartphone interface prototype controlled by webcam hand gestures and voice commands.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
